@@ -6,7 +6,7 @@ Software Engineer
 
 I've been messing around with programming and computers for as long as I can remember, but my career really started in 2019 when I started programming some complex projects in Java. Since then, I've mastered C#, Kotlin and C as well. Recently I've been messing around with JS as well, but nothing beats actual programming languages.
 
-* 🖥️  See my portfolio at [MeneerDeGroot.nl](http://meneerdegroot.nl)
+* 🖥️  See my portfolio at [pkg-dot-zip.com](http://www.pkg-dot-zip.com/)
 * 🤝  I'm open to collaborating on anything remotely interesting
 
 <a href="https://www.github.com/pkg-dot-zip" target="_blank" rel="noreferrer"><img
